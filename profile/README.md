@@ -1,12 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+# MonoBin 📝
 
-**Here are some ideas to get you started:**
+The flexible pastebin alternative.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+- [MonoBin 📝](#monobin-)
+  - [Description](#description)
+    - [What is the difference?](#what-is-the-difference)
+  - [Getting Started](#getting-started)
+
+## Description
+
+MonoBin is a small, self-hosted pastebin where you can decide who gets to upload. Made using Kotlin, Angular and love. This project is still in development and is not ready for **any** use.
+
+I just like making the README look nice to escape the actual work.
+
+### What is the difference?
+
+Using Keycloak, you can easily manage who gets to upload and who doesn't. This creates a semi-public pastebin where you can share your code with your friends or colleagues without worrying about random people uploading random stuff.
+
+## Getting Started
+
+*Coming soon...*
